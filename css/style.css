@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.background-header{
+    background-image: url('\img\pattern.png');
+    background-repeat:repeat;
+    height: 100px;
+}
+
+header>img{
+    height: 70%;
+}
+
+.azure {
+    background-color:aquamarine;
+    margin: 0;
+    padding: 0%;
+
+}
+
