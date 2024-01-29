@@ -16,6 +16,10 @@
     color: gray;
 }
 
+.small-fontsize{
+    font-size: 10px;
+}
+
 .max-width{
     width: 700px;
 }
@@ -27,6 +31,10 @@ ul{
 header>img{
     height: 70%;
     margin-top: 30px;
+}
+
+.block{
+    display: block;
 }
 
 .aquamarine-background {
