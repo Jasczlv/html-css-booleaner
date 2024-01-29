@@ -1,22 +1,47 @@
 *{
     box-sizing: border-box;
     margin: 0;
+    
 }
 
 .background-header{
-    background-image: url('\img\pattern.png');
+    background-image: url('../img/pattern.png');
     background-repeat:repeat;
+    background-size: 10%;
+    background-color: rgb(90, 230, 230);
+    width: 100%;
     height: 100px;
+}
+
+.max-width{
+    width: 700px;
 }
 
 header>img{
     height: 70%;
 }
 
-.azure {
+.azure-background {
     background-color:aquamarine;
-    margin: 0;
-    padding: 0%;
-
 }
 
+.spacing>img{
+    display: block;
+}
+
+.margin-left{
+    margin-left: 50px;
+}
+
+.margin-top{
+    margin-top: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: lightskyblue;
+}
+
+.table-column-widthsize{
+    width: 400px;
+}
